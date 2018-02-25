@@ -18,3 +18,8 @@ dependencies {
 
 }
 
+task createPom  {
+    pom {
+    }.writeTo("src/test/resources/pom.xml")
+}
+
