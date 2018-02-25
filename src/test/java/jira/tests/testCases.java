@@ -21,4 +21,9 @@ public class testCases {
         System.out.print("test 2 is running");
     }
 
+    @Test
+    public void test4(){
+        System.out.print("test 2 is running");
+    }
+
 }
