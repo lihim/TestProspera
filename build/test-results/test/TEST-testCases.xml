@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testCases" tests="2" skipped="0" failures="0" errors="0" timestamp="2018-02-22T13:21:49" hostname="DESKTOP-R7BOH1S" time="0.008">
+  <properties/>
+  <testcase name="test1" classname="testCases" time="0.005"/>
+  <testcase name="test2" classname="testCases" time="0.001"/>
+  <system-out><![CDATA[test 1 is runningtest 2 is running]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
