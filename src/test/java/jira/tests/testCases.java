@@ -1,5 +1,7 @@
 package jira.tests;
 
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
 
 public class testCases {
@@ -9,6 +11,10 @@ public class testCases {
     @Test
     public void test1(){
         System.out.print("test 1 is running");
+        System.setProperty("webdriver.chrome.driver", "C:\\automation\\drivers\\chromedriver.exe");
+        WebDriver driver = new ChromeDriver();
+        driver.get("http://www.google.com");
+
     }
 
     @Test
