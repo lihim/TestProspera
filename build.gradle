@@ -20,7 +20,7 @@ dependencies {
 }
 
 ext {
-    suiteXmlFilesm = 'src/test/resources/testng.xml'
+    suiteXmlFilesm = 'src/test/resources/testNG.xml'
 }
 
 
