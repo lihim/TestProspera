@@ -25,7 +25,7 @@ ext {
 
 
 test {
-        useTestNG(){
+        useTestNG()  {
             options.suites("src/test/resources/testng.xml")
             //     suiteXmlFilesm << new File("src/test/resources/testngSampleTest.xml")
 //        setSuiteXmlFiles(suiteXmlFiles)
