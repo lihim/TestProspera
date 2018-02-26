@@ -4,7 +4,17 @@
     <list default="true" id="594be34f-e465-4507-af45-14603294ac3c" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" afterPath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/testCases.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testCases.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testCases.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,7 +53,13 @@
                 <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
                 <item name="JiraTests" type="f1a62948:ProjectNode" />
                 <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="other" type="c8890929:TasksNode$1" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="JiraTests" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="verification" type="c8890929:TasksNode$1" />
               </path>
             </expand>
             <select />
@@ -57,8 +73,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="340">
+              <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -353,8 +369,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4558597428190" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="389027451" />
+        <entry key="$PROJECT_DIR$" value="4558598435647" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3490945505" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="159431464" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1417222222" />
       </map>
@@ -605,7 +621,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/lihi/IdeaProjects/JiraTests/src/test/resources/testNG.xml">
+  <component name="RunManager" selected="Gradle.JiraTests [test]">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -837,11 +853,11 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/lihi/IdeaProjects/JiraTests/src/test/resources/testNG.xml" />
-        <item index="1" class="java.lang.String" itemvalue="Gradle.TestProspera1 [wrapper]" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.testCases.test1" />
-        <item index="3" class="java.lang.String" itemvalue="Gradle.JiraTests [test]" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.JiraTests [clean]" />
+        <item index="0" class="java.lang.String" itemvalue="Gradle.JiraTests [test]" />
+        <item index="1" class="java.lang.String" itemvalue="Gradle.JiraTests [clean]" />
+        <item index="2" class="java.lang.String" itemvalue="TestNG.C:/Users/lihi/IdeaProjects/JiraTests/src/test/resources/testNG.xml" />
+        <item index="3" class="java.lang.String" itemvalue="Gradle.TestProspera1 [wrapper]" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.testCases.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -879,17 +895,17 @@
     <history-entry file="C__Users_lihi_IdeaProjects_JiraTests_src_test_resources_testNG_xml - 2018.02.26 at 17h 18m 20s.xml">
       <configuration name="C:/Users/lihi/IdeaProjects/JiraTests/src/test/resources/testNG.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="JiraTests_[test] - 2018.02.25 at 13h 16m 45s.xml">
+    <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 39m 10s.xml">
       <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="JiraTests_[test] - 2018.02.25 at 13h 45m 27s.xml">
+    <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 40m 47s.xml">
       <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases - 2018.02.22 at 14h 07m 18s.xml">
-      <configuration name="testCases" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 41m 35s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_(1) - 2018.02.22 at 15h 10m 07s.xml">
-      <configuration name="testCases (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 42m 37s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
     <history-entry file="testCases_(1) - 2018.02.25 at 13h 17m 21s.xml">
       <configuration name="testCases (1)" configurationId="TestNG" />
@@ -903,7 +919,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -913,7 +928,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32768363" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1324,8 +1339,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="340">
+          <caret line="26" column="6" lean-forward="true" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
           <folding />
         </state>
       </provider>

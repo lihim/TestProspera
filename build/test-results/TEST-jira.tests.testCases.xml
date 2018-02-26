@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jira.tests.testCases" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-02-26T15:42:32" hostname="DESKTOP-R7BOH1S" time="4.52">
+  <properties/>
+  <testcase name="test1" classname="jira.tests.testCases" time="4.518"/>
+  <testcase name="test2" classname="jira.tests.testCases" time="0.0"/>
+  <testcase name="test3" classname="jira.tests.testCases" time="0.001"/>
+  <testcase name="test4" classname="jira.tests.testCases" time="0.0"/>
+  <system-out><![CDATA[test 1 is runningtest 2 is runningtest 2 is runningtest 2 is running]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 2.35.528161 (5b82f2d2aae0ca24b877009200ced9065a772e73) on port 59310
+Only local connections are allowed.
+]]></system-err>
+</testsuite>
