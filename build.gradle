@@ -29,9 +29,10 @@ ext {
 
 test {
         useTestNG()  {
-            suites 'src/test/resources/testNG.xml'
+        //    suites 'src/test/resources/testNG.xml'
           // options.suites("src/test/resources/testng.xml")
-                 suiteXmlFilesm << new File("src/test/resources/testngSampleTest.xml")
+          useDefaultListeners=true
+                 suiteXmlFilesm << new File("src/test/resources/testNG.xml")
         setSuiteXmlFiles(suiteXmlFiles)
     }
 }
