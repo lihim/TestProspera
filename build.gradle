@@ -18,8 +18,17 @@ dependencies {
 
 
 }
+
+ext {
+    suiteXmlFilesm = 'src/test/resources/testng.xml'
+}
+
+
 test {
-    useTestNG()
+    useTestNG(){
+        suiteXmlFilesm << new File("src/test/resources/testngSampleTest.xml")
+//        setSuiteXmlFiles(suiteXmlFiles)
+    }
 }
 
 task wrapper(type: Wrapper) {
