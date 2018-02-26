@@ -13,6 +13,7 @@ public class testCases {
         System.out.print("test 1 is running");
         System.setProperty("webdriver.chrome.driver", "C:\\automation\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
+        //setting the website test
         driver.get("http://www.google.com");
 
     }
