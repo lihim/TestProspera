@@ -2,6 +2,7 @@ package jira.tests;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class testCases {
@@ -14,6 +15,7 @@ public class testCases {
         System.setProperty("webdriver.chrome.driver", "C:\\automation\\drivers\\chromedriver.exe");
         WebDriver driver = new ChromeDriver();
         //setting the website test
+        Assert.assertEquals("3", "6");
         driver.get("http://www.google.com");
 
     }
