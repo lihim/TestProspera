@@ -14,10 +14,10 @@
       <change beforePath="$PROJECT_DIR$/build/reports/tests/classes/jira.tests.testCases.html" afterPath="$PROJECT_DIR$/build/reports/tests/classes/jira.tests.testCases.html" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/packages/jira.tests.html" afterPath="$PROJECT_DIR$/build/reports/tests/packages/jira.tests.html" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/pom.xml" afterPath="$PROJECT_DIR$/build/resources/test/pom.xml" />
       <change beforePath="$PROJECT_DIR$/build/test-results/TEST-jira.tests.testCases.xml" afterPath="$PROJECT_DIR$/build/test-results/TEST-jira.tests.testCases.xml" />
       <change beforePath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin" />
       <change beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/pom.xml" afterPath="$PROJECT_DIR$/src/test/resources/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -76,8 +76,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="459">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -388,8 +388,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4558605042357" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="633213076" />
+        <entry key="$PROJECT_DIR$" value="4558606891871" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3069239602" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="159431464" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1417222222" />
       </map>
@@ -891,9 +891,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 40m 47s.xml">
-      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
-    </history-entry>
     <history-entry file="JiraTests_[test] - 2018.02.26 at 17h 41m 35s.xml">
       <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
@@ -921,10 +918,12 @@
     <history-entry file="JiraTests_[test] - 2018.02.26 at 18h 26m 42s.xml">
       <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
+    <history-entry file="JiraTests_[test] - 2018.02.26 at 20h 02m 57s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1552" height="850" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -933,7 +932,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296875" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4334828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4334828" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1319,8 +1318,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="31" column="9" lean-forward="false" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="459">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
           <folding />
         </state>
       </provider>

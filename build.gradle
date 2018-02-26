@@ -31,8 +31,8 @@ test {
         useTestNG()  {
             suites 'src/test/resources/testNG.xml'
           // options.suites("src/test/resources/testng.xml")
-            //     suiteXmlFilesm << new File("src/test/resources/testngSampleTest.xml")
-//        setSuiteXmlFiles(suiteXmlFiles)
+                 suiteXmlFilesm << new File("src/test/resources/testngSampleTest.xml")
+        setSuiteXmlFiles(suiteXmlFiles)
     }
 }
 
