@@ -71,7 +71,8 @@ public class testCases {
         options.setCapability(CapabilityType.LOGGING_PREFS, loggingprefs);
         driver =new ChromeDriver(options);
 
-        driver.get("https://prospera.ag/macro/login");
+       // driver.get("https://prospera.ag/macro/login");
+        driver.get("https://prospera.ag/macro/agro%20analytics");
 
         try {
             Thread.sleep(5000);
