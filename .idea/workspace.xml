@@ -2,6 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="594be34f-e465-4507-af45-14603294ac3c" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change beforePath="$PROJECT_DIR$/build/classes/test/jira/tests/testCases.class" afterPath="$PROJECT_DIR$/build/classes/test/jira/tests/testCases.class" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/pom.xml" afterPath="$PROJECT_DIR$/build/resources/test/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/IReportDispatcher.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/IReporter$ReportElementType.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/IReporter$ReporterTestInfo$TestStatus.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/IReporter$ReporterTestInfo.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/IReporter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/ReportManager.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/AbstracrDifidoReporter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/AbstractVideoEnabledDifidoReporter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/Execution.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/Machine.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/Node.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/NodeWithChildren.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/Scenario.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Extention/Test.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Status.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Test/ReportElement.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/Reports/Reporters/HtmlTestReporter/Model/Test/TestDetails.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/infra/Utils/JavaScriptSerializer.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" afterPath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" afterPath="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java" />
       <change beforePath="$PROJECT_DIR$/src/test/java/jira/tests/testCases.java" afterPath="$PROJECT_DIR$/src/test/java/jira/tests/testCases.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -61,8 +88,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+            <state relative-caret-position="289">
+              <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -71,8 +98,8 @@
       <file leaf-file-name="HtmlTestReporter.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -105,9 +132,11 @@
       <file leaf-file-name="testCases.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
-              <folding />
+            <state relative-caret-position="182">
+              <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -115,9 +144,11 @@
       <file leaf-file-name="ReportManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="578">
-              <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-              <folding />
+            <state relative-caret-position="270">
+              <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -159,8 +190,8 @@
       <file leaf-file-name="JavaScriptSerializer.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1071">
-              <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+            <state relative-caret-position="193">
+              <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -402,8 +433,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="4561721062424" />
-        <entry key="$PROJECT_DIR$/build.gradle" value="2920069527" />
+        <entry key="$PROJECT_DIR$" value="4562122127151" />
+        <entry key="$PROJECT_DIR$/build.gradle" value="3846737786" />
         <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="829777938" />
         <entry key="$PROJECT_DIR$/settings.gradle" value="1417222222" />
       </map>
@@ -593,7 +624,6 @@
         <option value="$PROJECT_DIR$/src/main/java/Reports/IReporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporters.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/IReportDispatcher.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/AbstractVideoEnabledDifidoReporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/AbstracrDifidoReporter.java" />
@@ -618,14 +648,15 @@
         <option value="$PROJECT_DIR$/src/main/java/infra/Resources/Resources.java" />
         <option value="$PROJECT_DIR$/src/main/java/infra/Resources.java" />
         <option value="$PROJECT_DIR$/src/main/java/infra/Utils/FileUtils.java" />
-        <option value="$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Test/ReportElement.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Test/TestDetails.java" />
-        <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Scenario.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/AbstractVideoEnabledDifidoReporter.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java" />
         <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/AbstracrDifidoReporter.java" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java" />
         <option value="$PROJECT_DIR$/src/test/java/jira/tests/testCases.java" />
       </list>
     </option>
@@ -707,6 +738,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JiraTests" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TestProspera1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JiraTests" type="b2602c69:ProjectViewProjectNode" />
@@ -802,7 +841,7 @@
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
+        <option name="scriptParameters" value="--stacktrace" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -1041,10 +1080,10 @@
     <recent_temporary>
       <list size="5">
         <item index="0" class="java.lang.String" itemvalue="TestNG.testCases" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.testCases.test1 (1)" />
-        <item index="2" class="java.lang.String" itemvalue="TestNG.testCases.test1" />
-        <item index="3" class="java.lang.String" itemvalue="TestNG.testCases (1)" />
-        <item index="4" class="java.lang.String" itemvalue="Gradle.JiraTests [test]" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.testCases.test1" />
+        <item index="2" class="java.lang.String" itemvalue="Gradle.JiraTests [test]" />
+        <item index="3" class="java.lang.String" itemvalue="TestNG.testCases.test1 (1)" />
+        <item index="4" class="java.lang.String" itemvalue="TestNG.testCases (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1073,35 +1112,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="testCases - 2018.03.21 at 10h 01m 38s.xml">
-      <configuration name="testCases" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 12m 40s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1 - 2018.03.21 at 09h 59m 17s.xml">
-      <configuration name="testCases.test1" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 12m 50s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.15 at 17h 25m 35s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 12m 56s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.18 at 15h 26m 16s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 14m 03s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.18 at 15h 46m 15s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 14m 16s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.18 at 15h 47m 36s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 15m 15s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.18 at 15h 49m 58s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 15m 31s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.18 at 15h 53m 20s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 16m 08s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.21 at 10h 00m 21s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 16m 21s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
-    <history-entry file="testCases_test1_(1) - 2018.03.21 at 10h 07m 11s.xml">
-      <configuration name="testCases.test1 (1)" configurationId="TestNG" />
+    <history-entry file="JiraTests_[test] - 2018.03.21 at 12h 16m 49s.xml">
+      <configuration name="JiraTests [test]" configurationId="GradleRunConfiguration" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -1116,18 +1155,19 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Atlassian " active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.311674" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31299436" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23127754" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29039547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29039547" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32655367" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.43276837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43276837" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1609808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1138,7 +1178,6 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31390134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3299435" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -1186,39 +1225,33 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>55</line>
+          <line>53</line>
           <properties />
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>130</line>
+          <line>128</line>
           <properties />
           <option name="timeStamp" value="55" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>142</line>
+          <line>140</line>
           <properties />
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>174</line>
+          <line>172</line>
           <properties />
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>66</line>
+          <line>64</line>
           <properties />
           <option name="timeStamp" value="58" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java</url>
-          <line>94</line>
-          <properties />
-          <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java</url>
@@ -1234,7 +1267,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>103</line>
+          <line>101</line>
           <properties class="Reports.ReportManager" method="EndSuite">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1242,7 +1275,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java</url>
-          <line>140</line>
+          <line>138</line>
           <properties class="Reports.ReportManager" method="Report">
             <option name="EMULATED" value="true" />
           </properties>
@@ -1390,7 +1423,9 @@ logEntries</expression-string>
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1671,22 +1706,6 @@ logEntries</expression-string>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="39" lean-forward="false" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/AbstractVideoEnabledDifidoReporter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="918">
@@ -1704,14 +1723,6 @@ logEntries</expression-string>
             <element signature="e#5354#5355#0" expanded="true" />
             <element signature="e#5402#5403#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="38" column="49" lean-forward="false" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1743,19 +1754,47 @@ logEntries</expression-string>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="24" column="6" lean-forward="false" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" lean-forward="false" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1071">
-          <caret line="63" column="17" lean-forward="false" selection-start-line="63" selection-start-column="17" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="193">
+          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Reports/ReportManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="148" column="28" lean-forward="false" selection-start-line="148" selection-start-column="28" selection-end-line="148" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
-          <folding />
+        <state relative-caret-position="182">
+          <caret line="42" column="33" lean-forward="false" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

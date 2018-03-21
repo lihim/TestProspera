@@ -1,7 +1,7 @@
 package jira.tests;
 
-import Reports.IReportDispatcher;
-import Reports.ReportManager;
+//import Reports.IReportDispatcher;
+//import Reports.ReportManager;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.HttpClient;
@@ -40,12 +40,12 @@ import static org.testng.AssertJUnit.assertTrue;
 public class testCases {
 
     WebDriver driver;
-    IReportDispatcher report = ReportManager.Instance();
+    //IReportDispatcher report = ReportManager.Instance();
 
     @Test
     public void test1() throws IOException {
 
-        report.Report("lihi test");
+   //     report.Report("lihi test");
 //        String url = "https://api.prospera.ag/api/v1/auth/login/";
 //
 //        HttpClient client = HttpClientBuilder.create().build();
@@ -71,7 +71,7 @@ public class testCases {
         options.setCapability(CapabilityType.LOGGING_PREFS, loggingprefs);
         driver =new ChromeDriver(options);
 
-        driver.get("https://int.prospera.ag/macro/agro%20analytics/111");
+        driver.get("https://prospera.ag/macro/login");
 
         try {
             Thread.sleep(5000);

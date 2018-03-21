@@ -22,7 +22,7 @@ dependencies {
     compile 'org.projectlombok:lombok:1.14.4'
    // testCompile 'com.google.gwt', name: 'gwt-user', version: '2.1.1-rc1'
 
-    compileOnly 'com.google.gwt:gwt-user:2.1.1-rc1'
+    //compileOnly 'com.google.gwt:gwt-user:2.1.1-rc1'
     compile 'com.sun.corba:orb:9.1'
     compile 'org.commonjava.indy:indy-diagnostics-client-java:1.2.0'
     compile 'com.google.guava:guava:r05'

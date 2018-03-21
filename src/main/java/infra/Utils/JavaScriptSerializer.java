@@ -17,7 +17,7 @@ package infra.Utils;
 //package org.rstudio.core.client.js;
 
 
-import com.google.gwt.core.client.JavaScriptObject;
+//import com.google.gwt.core.client.JavaScriptObject;
 
 /*
  * JavaScriptSerializer is a class that knows how to serialize and deserialize
@@ -63,8 +63,8 @@ import com.google.gwt.core.client.JavaScriptObject;
  */
 public interface JavaScriptSerializer
 {
-    <T> JavaScriptObject serialize(T source);
-    <T>  T deserialize(JavaScriptObject jso);
+ //   <T> JavaScriptObject serialize(T source);
+//    <T>  T deserialize(JavaScriptObject jso);
 }
 
 

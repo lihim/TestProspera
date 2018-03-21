@@ -2,8 +2,8 @@ package Reports.Reporters.HtmlTestReporter;
 
 import Reports.Reporters.HtmlTestReporter.Model.Extention.Execution;
 import Reports.Reporters.HtmlTestReporter.Model.Test.TestDetails;
-import com.sun.deploy.model.Resource;
-import com.sun.deploy.model.ResourceObject;
+//import com.sun.deploy.model.Resource;
+//import com.sun.deploy.model.ResourceObject;
 import infra.Utils.JavaScriptSerializer;
 
 import java.io.*;
