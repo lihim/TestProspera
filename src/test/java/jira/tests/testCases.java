@@ -1,5 +1,7 @@
 package jira.tests;
 
+import Reports.IReportDispatcher;
+import Reports.ReportManager;
 import org.apache.http.HttpResponse;
 import org.apache.http.NameValuePair;
 import org.apache.http.client.HttpClient;
@@ -21,6 +23,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.testng.Assert;
 import org.testng.IReporter;
 import org.testng.ISuite;
+import org.testng.Reporter;
 import org.testng.annotations.Test;
 import org.testng.xml.XmlSuite;
 
@@ -37,10 +40,12 @@ import static org.testng.AssertJUnit.assertTrue;
 public class testCases {
 
     WebDriver driver;
+    IReportDispatcher report = ReportManager.Instance();
 
     @Test
     public void test1() throws IOException {
 
+        report.Report("lihi test");
 //        String url = "https://api.prospera.ag/api/v1/auth/login/";
 //
 //        HttpClient client = HttpClientBuilder.create().build();
@@ -82,7 +87,7 @@ public class testCases {
 
 
         try {
-            Thread.sleep(8000);
+            Thread.sleep(10000);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
@@ -103,7 +108,11 @@ public class testCases {
         driver.findElements(By.xpath("//span[@_ngcontent-c10 and @class='name' and contains(text(), 'A07')]")).get(0).click();
 
 
-
+        try {
+            Thread.sleep(8000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
 
 
         ExtractJSLogs();
@@ -113,10 +122,13 @@ public class testCases {
 
     public void ExtractJSLogs() {
         LogEntries logEntries = driver.manage().logs().get(LogType.BROWSER);
-        logEntries.forEach((k)->{if("SERVER".equals(k.getLevel().toString()))System.out.println(k.getMessage()); });
         for (LogEntry entry : logEntries) {
+            System.out.println(new Date(entry.getTimestamp()) + " " + entry.getLevel() + " " + entry.getMessage());
             if(entry.getLevel().toString() == "SEVERE"){
                 System.out.println(entry.getMessage());
+                Assert.fail();
+
+                
             }
            // System.out.println(new Date(entry.getTimestamp()) + " " + entry.getLevel() + " " + entry.getMessage());
 
