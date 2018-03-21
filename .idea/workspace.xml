@@ -2,33 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="594be34f-e465-4507-af45-14603294ac3c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/TestProspera1.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/IReportDispatcher.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/IReporter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/ReportManager.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/AbstracrDifidoReporter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/AbstractVideoEnabledDifidoReporter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/HtmlTestReporter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Execution.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Machine.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Node.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/NodeWithChildren.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Scenario.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Extention/Test.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Status.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Test/ReportElement.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Reports/Reporters/HtmlTestReporter/Model/Test/TestDetails.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/infra/Resources.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/infra/Utils/FileUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/infra/Utils/JavaScriptSerializer.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" afterPath="$PROJECT_DIR$/out/test/classes/jira/tests/testCases.class" />
-      <change beforePath="$PROJECT_DIR$/out/test/classes/pom.xml" afterPath="$PROJECT_DIR$/out/test/classes/pom.xml" />
       <change beforePath="$PROJECT_DIR$/src/test/java/jira/tests/testCases.java" afterPath="$PROJECT_DIR$/src/test/java/jira/tests/testCases.java" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/pom.xml" afterPath="$PROJECT_DIR$/src/test/resources/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -131,8 +105,8 @@
       <file leaf-file-name="testCases.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="130" column="16" lean-forward="false" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+            <state relative-caret-position="414">
+              <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
               <folding />
             </state>
           </provider>
@@ -662,7 +636,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="40" />
     <option name="y" value="-29" />
     <option name="width" value="1400" />
@@ -1131,7 +1105,7 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1066" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1779,8 +1753,8 @@ logEntries</expression-string>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/jira/tests/testCases.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="130" column="16" lean-forward="false" selection-start-line="130" selection-start-column="16" selection-end-line="130" selection-end-column="16" />
+        <state relative-caret-position="414">
+          <caret line="128" column="57" lean-forward="true" selection-start-line="128" selection-start-column="57" selection-end-line="128" selection-end-column="57" />
           <folding />
         </state>
       </provider>
