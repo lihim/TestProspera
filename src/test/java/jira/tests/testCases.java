@@ -127,7 +127,7 @@ public class testCases {
             System.out.println(new Date(entry.getTimestamp()) + " " + entry.getLevel() + " " + entry.getMessage());
             if(entry.getLevel().toString() == "SEVERE"){
                 System.out.println(entry.getMessage());
-                Assert.fail(entry.getLevel().toString());
+                Assert.fail(entry.getTimestamp() + " " + entry.getLevel() + " " + entry.getMessage());
 
 
             }
